@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "cRTXgbCaD0NDCgsGSA3SnPJK5hXwVtVjy0Y4U3K+ImqpZowuIEa8UUxFN0Un9gg1htIGZ+q82IYFMiSAf6wZgg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tarik\\Desktop\\skyline\\skyline.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tarik\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Tarik\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
+    "C:\\Users\\Tarik\\.nuget\\packages\\system.text.json\\6.0.4\\system.text.json.6.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

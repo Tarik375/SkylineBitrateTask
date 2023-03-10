@@ -1,0 +1,17 @@
+C:\Users\Tarik\Desktop\skyline\bin\Debug\net6.0\skyline.exe
+C:\Users\Tarik\Desktop\skyline\bin\Debug\net6.0\skyline.deps.json
+C:\Users\Tarik\Desktop\skyline\bin\Debug\net6.0\skyline.runtimeconfig.json
+C:\Users\Tarik\Desktop\skyline\bin\Debug\net6.0\skyline.dll
+C:\Users\Tarik\Desktop\skyline\bin\Debug\net6.0\skyline.pdb
+C:\Users\Tarik\Desktop\skyline\obj\Debug\net6.0\skyline.csproj.AssemblyReference.cache
+C:\Users\Tarik\Desktop\skyline\obj\Debug\net6.0\skyline.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tarik\Desktop\skyline\obj\Debug\net6.0\skyline.AssemblyInfoInputs.cache
+C:\Users\Tarik\Desktop\skyline\obj\Debug\net6.0\skyline.AssemblyInfo.cs
+C:\Users\Tarik\Desktop\skyline\obj\Debug\net6.0\skyline.csproj.CoreCompileInputs.cache
+C:\Users\Tarik\Desktop\skyline\obj\Debug\net6.0\skyline.dll
+C:\Users\Tarik\Desktop\skyline\obj\Debug\net6.0\refint\skyline.dll
+C:\Users\Tarik\Desktop\skyline\obj\Debug\net6.0\skyline.pdb
+C:\Users\Tarik\Desktop\skyline\obj\Debug\net6.0\skyline.genruntimeconfig.cache
+C:\Users\Tarik\Desktop\skyline\obj\Debug\net6.0\ref\skyline.dll
+C:\Users\Tarik\Desktop\skyline\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Tarik\Desktop\skyline\obj\Debug\net6.0\skyline.csproj.CopyComplete
